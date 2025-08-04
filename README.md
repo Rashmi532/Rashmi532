@@ -36,9 +36,6 @@
   <a href="https://www.linkedin.com/in/rashmi-j-s/">
     <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20J%20S-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/Rashmi532">
-    <img src="https://img.shields.io/badge/GitHub-Rashmi532-black?style=flat&logo=github" />
-  </a>
 </p>
 
 ---
