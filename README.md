@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rashmi J S</h1>
-<h3 align="center">Aspiring Full Stack Developer | CSE Graduate (2025) | From India</h3>
+<h3 align="center">Aspiring Full Stack Developer | CSE Graduate (2025)</h3>
 
 <p align="center">
   🚀 Passionate about coding, building user-centric web apps, and learning emerging technologies.<br>
-  💡 I enjoy solving problems and turning ideas into working software.<br>
-  🌱 Currently exploring Spring Boot and improving backend skills.<br>
-  📍 Based in Bangalore, India.
+  💡 I enjoy solving problems and turning ideas into working software.
 </p>
 
 ---
@@ -20,7 +18,9 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
 </p>
