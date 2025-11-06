@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashmi J S</h1>
+<h1 align="center">Hi, I'm Rashmi J S</h1>
 <h3 align="center">Aspiring Full Stack Developer | CSE Graduate (2025)</h3>
 
 <p align="center">
