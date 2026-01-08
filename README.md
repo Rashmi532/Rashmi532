@@ -44,6 +44,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmi532&show_icons=true&theme=default" alt="Rashmi's GitHub stats" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rashmi532&show_icons=true&theme=default&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
+
