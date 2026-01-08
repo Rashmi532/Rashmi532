@@ -2,6 +2,10 @@
 <h3 align="center">Aspiring Full Stack Developer | CSE Graduate (2025)</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rashmi532&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   🚀 Passionate about coding, building user-centric web apps, and learning emerging technologies.<br>
   💡 I enjoy solving problems and turning ideas into working software.
 </p>
@@ -44,10 +48,5 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rashmi532&show_icons=true&theme=default&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rashmi532&show_icons=true&theme=default" alt="Rashmi's GitHub stats" /> </p>
 
