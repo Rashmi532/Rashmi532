@@ -39,9 +39,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Rashmi%20J%20S-blue?style=flat&logo=linkedin" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rashmi532&show_icons=true&theme=default" alt="Rashmi's GitHub stats" /> </p>
