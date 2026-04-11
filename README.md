@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rashmi J S</h1>
-<h3 align="center">Aspiring Full Stack Developer | CSE Graduate (2025)</h3>
+<h3 align="center">Aspiring Full Stack Developer | CSE Graduate </h3>
 
 <p align="center">
   🚀 Passionate about coding, building user-centric web apps, and learning emerging technologies.<br>
