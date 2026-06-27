@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Rashmi J S</h1>
 
 <p align="center">
-  🚀 Passionate about coding, building user-centric web apps, and learning emerging technologies.<br>
-  💡 I enjoy solving problems and turning ideas into working software.
+  Passionate about coding, building user-centric web apps, and learning emerging technologies.<br>
 </p>
 
 ---
